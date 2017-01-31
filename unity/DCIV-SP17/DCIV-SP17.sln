@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCIV-SP17.Plugins", "DCIV-SP17.Plugins.csproj", "{14C26FB6-F9FC-BB13-34E6-A85895036D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCIV-SP17.Editor.Plugins", "DCIV-SP17.Editor.Plugins.csproj", "{9B3DAFC8-61D5-1150-8C95-E32200B45BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C26FB6-F9FC-BB13-34E6-A85895036D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C26FB6-F9FC-BB13-34E6-A85895036D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C26FB6-F9FC-BB13-34E6-A85895036D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C26FB6-F9FC-BB13-34E6-A85895036D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3DAFC8-61D5-1150-8C95-E32200B45BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3DAFC8-61D5-1150-8C95-E32200B45BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3DAFC8-61D5-1150-8C95-E32200B45BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3DAFC8-61D5-1150-8C95-E32200B45BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
